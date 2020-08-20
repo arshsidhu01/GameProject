@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{2C90701D-5F29-4B9F-8EE3-92FF87C55891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting", "UnitTesting\UnitTesting.csproj", "{A0B1A55F-7041-43C4-8AE5-A42A74B923FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C90701D-5F29-4B9F-8EE3-92FF87C55891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C90701D-5F29-4B9F-8EE3-92FF87C55891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C90701D-5F29-4B9F-8EE3-92FF87C55891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C90701D-5F29-4B9F-8EE3-92FF87C55891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0B1A55F-7041-43C4-8AE5-A42A74B923FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B1A55F-7041-43C4-8AE5-A42A74B923FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B1A55F-7041-43C4-8AE5-A42A74B923FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B1A55F-7041-43C4-8AE5-A42A74B923FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8217883B-F6DA-437E-9D80-24DC110B6436}
+	EndGlobalSection
+EndGlobal
